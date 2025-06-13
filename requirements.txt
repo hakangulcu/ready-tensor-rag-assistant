@@ -1,0 +1,12 @@
+# requirements.txt - Updated compatible versions
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-core==0.1.52
+chromadb==0.4.24
+ollama==0.1.9
+sqlalchemy==2.0.25
+
+# Optional: for enhanced functionality
+sentence-transformers==2.7.0
+numpy==1.26.4
+tiktoken==0.6.0
